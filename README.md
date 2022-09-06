@@ -7,6 +7,7 @@ Better yet, let's collaborate! I would love to help apply any of these methods t
 
 Contact:  
 BoulderGeophysics@gmail.com
+
 Will.Levandowski@tetratech.com
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
