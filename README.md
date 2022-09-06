@@ -4,13 +4,15 @@ Here you will find repositories related to several of my research interests, pas
 These repositories contain code (almost all for MATLAB), metadata and documentation, and some figures and publications.
 You are free to use any of the code you find here for non-profit purposes. Please cite the related publication, if there is one.
 Better yet, let's collaborate! I would love to help apply any of these methods to new problems, new datasets, or new regions.
-Contact: 
+Contact:  
+
 BoulderGeophysics@gmail.com
+
 Will.Levandowski@tetratech.com
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 ABOUT ME (Research blurbs)
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 My research mostly falls on the continuum from earthquake seismology through seismotectonics to tectonophysics and generally investigates how continents deform. Intraplate seismicity—earthquakes that occur far from tectonic plate boundaries—is my main bag, and I study both its causes (what forces are responsible for and what processes ultimately trigger intraplate earthquakes?) and its effects (how will the ground shake in response to local and regional earthquakes?). A blockhead when it comes to using others’ code, I specialize in developing novel approaches and hacking together new algorithms/software to address questions that are not satisfactorily answered with existing techniques. I have been lucky enough—and made some effort—to have experience in nearly every tectonic setting in continental North America, while collaborators and I have applied my algorithms in Antarctica, Asia, South America, and the Caribbean. 
 
